@@ -25,6 +25,7 @@ my stared node.js libraries. Inspired by [awesome-python](https://github.com/vin
 * [faker.js](https://github.com/Marak/faker.js) - generate massive amounts of fake data in Node.js and the browser
 * [breach_core](https://github.com/breach/breach_core) - A Browser written in JS. Free. Modular. Hackable.
 * [sitespeed.io](https://github.com/sitespeedio/sitespeed.io) - Sitespeed.io is an open source tool that helps you analyze and optimize your website speed and performance, based on performance best practices rules and collecting browser metrics using the Navigation Timing API and User Timings. 
+* [critical](https://github.com/addyosmani/critical) - Extract & Inline Critical-path CSS in HTML pages
 
 ## Utils
 * [when](https://github.com/cujojs/when) - A solid, fast Promises/A+ and when() implementation, plus other async goodies.
