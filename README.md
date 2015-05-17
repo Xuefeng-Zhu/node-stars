@@ -15,9 +15,11 @@ my stared node.js libraries. Inspired by [awesome-python](https://github.com/vin
 * [lets-chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
 * [hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 * [nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM and enable a new way of writing applications with all Web technologies. 
+* [tty.js](https://github.com/chjj/tty.js) - A terminal for your browser, using node/express/socket.io
 
 ## Utils
 * [when](https://github.com/cujojs/when) - A solid, fast Promises/A+ and when() implementation, plus other async goodies.
+* [superagent](https://github.com/visionmedia/superagent) - Ajax with less suck - (and node.js HTTP client to match)
 
 ## Reference
 * [nodebeginner.org](https://github.com/manuelkiessling/nodebeginner.org) - A comprehensive Node.js tutorial for beginners
