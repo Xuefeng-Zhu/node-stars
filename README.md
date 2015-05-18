@@ -33,7 +33,7 @@ my stared node.js libraries. Inspired by [awesome-python](https://github.com/vin
 * [buckets](https://github.com/asm-products/buckets) - Manage content better
 * [libreboard](https://github.com/libreboard/libreboard) - An open-source kanban board
 * [shipit](https://github.com/shipitjs/shipit) - Universal automation and deployment tool written in JavaScript.
-
+* [gun](https://github.com/amark/gun) - A distributed, embedded, graph database engine.
 
 ## Utils
 * [when](https://github.com/cujojs/when) - A solid, fast Promises/A+ and when() implementation, plus other async goodies.
