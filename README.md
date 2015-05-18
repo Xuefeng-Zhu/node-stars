@@ -29,6 +29,7 @@ my stared node.js libraries. Inspired by [awesome-python](https://github.com/vin
 * [critical](https://github.com/addyosmani/critical) - Extract & Inline Critical-path CSS in HTML pages
 * [duo](https://github.com/duojs/duo) - A next-generation package manager for the front-end 
 * [NodeOS](https://github.com/NodeOS/NodeOS) - Lightweight operating system using Node.js as userspace
+* [reqres](https://github.com/benhowdle89/reqres) - A hosted REST-API ready to respond to your AJAX requests 
 
 ## Utils
 * [when](https://github.com/cujojs/when) - A solid, fast Promises/A+ and when() implementation, plus other async goodies.
