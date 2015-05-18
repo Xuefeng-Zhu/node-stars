@@ -31,6 +31,9 @@ my stared node.js libraries. Inspired by [awesome-python](https://github.com/vin
 * [NodeOS](https://github.com/NodeOS/NodeOS) - Lightweight operating system using Node.js as userspace
 * [reqres](https://github.com/benhowdle89/reqres) - A hosted REST-API ready to respond to your AJAX requests
 * [buckets](https://github.com/asm-products/buckets) - Manage content better
+* [libreboard](https://github.com/libreboard/libreboard) - An open-source kanban board
+* [shipit](https://github.com/shipitjs/shipit) - Universal automation and deployment tool written in JavaScript.
+
 
 ## Utils
 * [when](https://github.com/cujojs/when) - A solid, fast Promises/A+ and when() implementation, plus other async goodies.
@@ -39,6 +42,7 @@ my stared node.js libraries. Inspired by [awesome-python](https://github.com/vin
 * [superagent](https://github.com/visionmedia/superagent) - Ajax with less suck - (and node.js HTTP client to match)
 * [passwordless](https://github.com/florianheinemann/passwordless) - node.js/express module to authenticate users without password 
 * [passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js. 
+* [blessed-contrib](https://github.com/yaronn/blessed-contrib) - Build terminal dashboards using ascii/ansi art and javascript
 
 
 ## Reference
