@@ -13,6 +13,7 @@ my stared node.js libraries. Inspired by [awesome-python](https://github.com/vin
 ## Framework
 * [meteor](https://github.com/meteor/meteor) - Meteor, an ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework.
 * [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit
+* [nightmare](https://github.com/segmentio/nightmare) - A high level wrapper for Phantomjs.
 * [mean](https://github.com/linnovate/mean) - MEAN (Mongo, Express, Angular, Node) - A Simple, Scalable and Easy starting point for full stack javascript web development - utilizing many of the best practices we've found on the way 
 
 ## Tool
