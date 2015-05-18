@@ -32,6 +32,7 @@ my stared node.js libraries. Inspired by [awesome-python](https://github.com/vin
 * [q](https://github.com/kriskowal/q) - A tool for creating and composing asynchronous promises in JavaScript 
 * [async](https://github.com/caolan/async) - Async utilities for node and the browser
 * [superagent](https://github.com/visionmedia/superagent) - Ajax with less suck - (and node.js HTTP client to match)
+* [passwordless](https://github.com/florianheinemann/passwordless) - node.js/express module to authenticate users without password 
 
 
 ## Reference
