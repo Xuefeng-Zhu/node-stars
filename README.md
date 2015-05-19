@@ -48,7 +48,7 @@ My stared node.js libraries. Inspired by [awesome-python](https://github.com/vin
 * [faker.js](https://github.com/Marak/faker.js) - generate massive amounts of fake data in Node.js and the browser
 * [reqres](https://github.com/benhowdle89/reqres) - A hosted REST-API ready to respond to your AJAX requests
 * [gun](https://github.com/amark/gun) - A distributed, embedded, graph database engine.
-
+* [node-browserify](https://github.com/substack/node-browserify) - browser-side require() the node.js way
 
 ## Utils
 * [when](https://github.com/cujojs/when) - A solid, fast Promises/A+ and when() implementation, plus other async goodies.
