@@ -4,52 +4,39 @@ My stared node.js libraries. Inspired by [awesome-python](https://github.com/vin
 
 - [Node Stars](#node-stars)
     - [Command Line](#command-line)
-    - [Dev in Node](#dev-in-node)
     - [Framework](#framework)
-    - [Platform](#platform)
     - [Tool](#tool)
     - [Web Dev](#web-dev)
     - [Utils](#utils)
+    - [Projects](#projects)
     - [Reference](#reference)
 
 ---
 ## Command Line
 * [blessed-contrib](https://github.com/yaronn/blessed-contrib) - Build terminal dashboards using ascii/ansi art and javascript
 * [gitjk](https://github.com/mapmeld/gitjk) - Undo what you just did in git
-
-## Dev in Node
-* [nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM and enable a new way of writing applications with all Web technologies. 
-* [electron](https://github.com/atom/electron) - Build cross platform desktop apps with web technologies 
-* [breach_core](https://github.com/breach/breach_core) - A Browser written in JS. Free. Modular. Hackable.
-* [NodeOS](https://github.com/NodeOS/NodeOS) - Lightweight operating system using Node.js as userspace
-
+* [duo](https://github.com/duojs/duo) - A next-generation package manager for the front-end 
+* [critical](https://github.com/addyosmani/critical) - Extract & Inline Critical-path CSS in HTML pages
 
 ## Framework
 * [meteor](https://github.com/meteor/meteor) - Meteor, an ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework.
 * [mean](https://github.com/linnovate/mean) - MEAN (Mongo, Express, Angular, Node) - A Simple, Scalable and Easy starting point for full stack javascript web development - utilizing many of the best practices we've found on the way 
+* [nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM and enable a new way of writing applications with all Web technologies. 
+* [electron](https://github.com/atom/electron) - Build cross platform desktop apps with web technologies 
 * [hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
-* [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit
-* [nightmare](https://github.com/segmentio/nightmare) - A high level wrapper for Phantomjs.
-
-## Platform
-* [ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere
-* [lets-chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
-* [libreboard](https://github.com/libreboard/libreboard) - An open-source kanban board
-* [buckets](https://github.com/asm-products/buckets) - Manage content better
-* [betty](https://github.com/SamyPesse/betty) - Open source Google Voice with Receptionist abilities, built on top of Twilio
 
 ## Tool
-* [sitespeed.io](https://github.com/sitespeedio/sitespeed.io) - Sitespeed.io is an open source tool that helps you analyze and optimize your website speed and performance, based on performance best practices rules and collecting browser metrics using the Navigation Timing API and User Timings. 
-* [tty.js](https://github.com/chjj/tty.js) - A terminal for your browser, using node/express/socket.io
-* [duo](https://github.com/duojs/duo) - A next-generation package manager for the front-end 
 * [shipit](https://github.com/shipitjs/shipit) - Universal automation and deployment tool written in JavaScript.
+* [ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere
+* [gun](https://github.com/amark/gun) - A distributed, embedded, graph database engine.
+* [faker.js](https://github.com/Marak/faker.js) - generate massive amounts of fake data in Node.js and the browser
 
 ## Web Dev
-* [critical](https://github.com/addyosmani/critical) - Extract & Inline Critical-path CSS in HTML pages
-* [faker.js](https://github.com/Marak/faker.js) - generate massive amounts of fake data in Node.js and the browser
+* [sitespeed.io](https://github.com/sitespeedio/sitespeed.io) - Sitespeed.io is an open source tool that helps you analyze and optimize your website speed and performance, based on performance best practices rules and collecting browser metrics using the Navigation Timing API and User Timings. 
 * [reqres](https://github.com/benhowdle89/reqres) - A hosted REST-API ready to respond to your AJAX requests
-* [gun](https://github.com/amark/gun) - A distributed, embedded, graph database engine.
 * [node-browserify](https://github.com/substack/node-browserify) - browser-side require() the node.js way
+* [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit
+* [nightmare](https://github.com/segmentio/nightmare) - A high level wrapper for Phantomjs.
 
 ## Utils
 * [when](https://github.com/cujojs/when) - A solid, fast Promises/A+ and when() implementation, plus other async goodies.
@@ -59,6 +46,12 @@ My stared node.js libraries. Inspired by [awesome-python](https://github.com/vin
 * [passwordless](https://github.com/florianheinemann/passwordless) - node.js/express module to authenticate users without password 
 * [passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js. 
 
+## Projects
+* [lets-chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
+* [wekan](https://github.com/wekan/wekan) - An open-source kanban board
+* [betty](https://github.com/SamyPesse/betty) - Open source Google Voice with Receptionist abilities, built on top of Twilio
+* [tty.js](https://github.com/chjj/tty.js) - A terminal for your browser, using node/express/socket.io
+* [NodeOS](https://github.com/NodeOS/NodeOS) - Lightweight operating system using Node.js as userspace
 
 ## Reference
 * [nodebeginner.org](https://github.com/manuelkiessling/nodebeginner.org) - A comprehensive Node.js tutorial for beginners
